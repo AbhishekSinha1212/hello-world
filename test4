@@ -1,0 +1,36 @@
+/* [JSON Object:hello] */
+{
+	
+	"type" : "object",
+	"title" : "hello",
+	"properties" : {
+		"okay": {
+			"type" : "string",
+			"title" : "okay"		
+		}
+	}
+};
+/* [JSON Object:one] */
+{
+	
+	"type" : "object",
+	"title" : "one",
+	"properties" : {
+		"erwin": {
+			"type" : "string",
+			"title" : "erwin"		
+		}
+	}
+};
+/* [JSON Object:two] */
+{
+	
+	"type" : "object",
+	"title" : "two",
+	"properties" : {
+		"quest": {
+			"type" : "string",
+			"title" : "quest"		
+		}
+	}
+};
